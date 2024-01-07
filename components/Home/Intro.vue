@@ -13,12 +13,7 @@
       always viewed programming as an artform I am looking forward to going on a journey 
       to learn more about myself and the technologies that I work with. so welcome to my Clouded Brain! 
     </p>
-    <p class="text-gray-900 dark:text-gray-400">
-      By day, I'm a DevOps engineer and I love to learn and find solutions. My primary skills are C#,
-      PowerShell, bicep, Azure, Git, CI/CD. I have written in a lot more but that is where my strengths
-      are. I am more concerned with continually learning more than I am concerned with a specific track.
-      Looking forward to more collaboration along the way.
-    </p>
+    
   </div>
 </template>
 
