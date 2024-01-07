@@ -26,12 +26,12 @@
 const links = [
   {
     name: "Twitter",
-    url: "https://twitter.com/fayazara",
+    url: "https://twitter.com/lostfoundhoodie",
     icon: "mdi:twitter",
   },
   {
     name: "GitHub",
-    url: "https://github.com/fayazara",
+    url: "https://github.com/TresLanghorne",
     icon: "mdi:github",
   },
   {
