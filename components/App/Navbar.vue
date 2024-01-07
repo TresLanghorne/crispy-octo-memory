@@ -49,13 +49,13 @@ const items = [
     icon: "solar:folder-with-files-outline",
   },
   {
-    name: "Articles",
+    name: "Blog",
     path: "/articles",
     icon: "solar:document-add-outline",
   },
   { name: "Lab", path: "/lab", icon: "heroicons:beaker" },
   {
-    name: "What's in my bag?",
+    name: "Personal Tools",
     path: "/whats-in-my-bag",
     icon: "solar:backpack-outline",
   },
